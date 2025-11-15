@@ -22,7 +22,6 @@ function App() {
         <Projects />
         <Contact />
       </main>
-
       <Footer />
       <AccessibilityWidget />
       <WhatsAppButton />
